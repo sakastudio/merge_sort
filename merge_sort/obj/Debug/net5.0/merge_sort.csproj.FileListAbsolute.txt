@@ -1,0 +1,15 @@
+/Users/sato-katsumi/RiderProjects/merge_sort/merge_sort/bin/Debug/net5.0/merge_sort.deps.json
+/Users/sato-katsumi/RiderProjects/merge_sort/merge_sort/bin/Debug/net5.0/merge_sort.runtimeconfig.json
+/Users/sato-katsumi/RiderProjects/merge_sort/merge_sort/bin/Debug/net5.0/merge_sort.runtimeconfig.dev.json
+/Users/sato-katsumi/RiderProjects/merge_sort/merge_sort/bin/Debug/net5.0/merge_sort.dll
+/Users/sato-katsumi/RiderProjects/merge_sort/merge_sort/bin/Debug/net5.0/ref/merge_sort.dll
+/Users/sato-katsumi/RiderProjects/merge_sort/merge_sort/bin/Debug/net5.0/merge_sort.pdb
+/Users/sato-katsumi/RiderProjects/merge_sort/merge_sort/obj/Debug/net5.0/merge_sort.csproj.AssemblyReference.cache
+/Users/sato-katsumi/RiderProjects/merge_sort/merge_sort/obj/Debug/net5.0/merge_sort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sato-katsumi/RiderProjects/merge_sort/merge_sort/obj/Debug/net5.0/merge_sort.AssemblyInfoInputs.cache
+/Users/sato-katsumi/RiderProjects/merge_sort/merge_sort/obj/Debug/net5.0/merge_sort.AssemblyInfo.cs
+/Users/sato-katsumi/RiderProjects/merge_sort/merge_sort/obj/Debug/net5.0/merge_sort.csproj.CoreCompileInputs.cache
+/Users/sato-katsumi/RiderProjects/merge_sort/merge_sort/obj/Debug/net5.0/merge_sort.dll
+/Users/sato-katsumi/RiderProjects/merge_sort/merge_sort/obj/Debug/net5.0/ref/merge_sort.dll
+/Users/sato-katsumi/RiderProjects/merge_sort/merge_sort/obj/Debug/net5.0/merge_sort.pdb
+/Users/sato-katsumi/RiderProjects/merge_sort/merge_sort/obj/Debug/net5.0/merge_sort.genruntimeconfig.cache
